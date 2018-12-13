@@ -31,10 +31,10 @@
   },
   "homepage": "https://github.com/liuderchi/ide-html#readme",
   "devDependencies": {
-    "eslint": "^5.9.0"
+    "eslint": "^5.10.0"
   },
   "dependencies": {
-    "atom-languageclient": "^0.9.8",
+    "atom-languageclient": "^0.9.9",
     "vscode-html-languageserver-bin": "^1.4.0"
   },
   "enhancedScopes": [
